@@ -16,7 +16,7 @@ The Materials folder contains all files needed to complete the case study:
 
 - **nfl_weekly_dataset.csv** – final cleaned dataset used for analysis  
 - **pbp_clean.csv** – intermediate cleaned play-by-play dataset  
-- **data_cleaning.R** – R script used to clean and prepare the data  
+- **data_set_cleaning.R** – R script used to clean and prepare the data  
 - **EDA.ipynb** – Jupyter Notebook containing exploratory data analysis and modeling  
 - **nflfastR_reference.txt** – source and documentation for the dataset  
 - **passing_trends_article.txt** – article providing context on NFL passing trends  
