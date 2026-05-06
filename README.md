@@ -14,11 +14,11 @@ Data comes from nflfastR play-by-play data (2010–2024). The data was cleaned a
 
 The Materials folder contains all files needed to complete the case study:
 
-- **nfl_weekly_dataset.csv** – cleaned weekly dataset used for analysis  
+- **nfl_weekly_dataset.csv** – final cleaned dataset used for analysis  
 - **pbp_clean.csv** – intermediate cleaned play-by-play dataset  
-- **data_cleaning.R** – R script used to clean and prepare the dataset  
+- **data_cleaning.R** – R script used to clean and prepare the data  
 - **EDA.ipynb** – Jupyter Notebook containing exploratory data analysis and modeling  
-- **nflfastR_reference.txt** – source for dataset and documentation  
+- **nflfastR_reference.txt** – source and documentation for the dataset  
 - **passing_trends_article.txt** – article providing context on NFL passing trends  
 
 ## References
