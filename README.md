@@ -8,7 +8,7 @@ This case study analyzes how offensive strategy and game pace impact scoring tre
 
 ## Data
 
-Data comes from nflfastR play-by-play data (2010–2024), aggregated to weekly averages.
+Data comes from nflfastR play-by-play data (2010–2024). The data was cleaned and prepared in R, then aggregated to weekly averages for analysis.
 
 ## Materials
 
